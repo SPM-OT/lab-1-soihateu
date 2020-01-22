@@ -1,2 +1,1 @@
-SOFE 3490 - LAB 1
 BY: Eric Tsim (100560172)
